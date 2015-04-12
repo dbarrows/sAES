@@ -4,7 +4,10 @@ Simple AES
 Implementation of a Simple AES (sAES) encryption algorithm.
 
 
-Example run and data
+Options
+--------------------
+
+Command line arguments (must be in order)
 
 |Argument|Description|
 |--------|-----------|
@@ -16,7 +19,7 @@ Example run and data
 Note that the input is assumed to be multiples of 8-bit blocks (two hex characters) and already padded if necessary.
 
 
-Examples:
+Examples runs
 ---------
 
 Encryption
